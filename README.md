@@ -129,12 +129,12 @@ Obtain ADNI data through the [official ADNI portal](https://adni.loni.usc.edu/) 
 ## Citation
 
 ```bibtex
-@misc{an2026copoe,
-  title  = {{CoPoE}: Multimodal Fusion via Decomposable Disease-Coordinate
-            Product-of-Experts for Missing-Modality Alzheimer's Diagnosis},
-  author = {An, Chihun and Jang, Ikbeom},
-  year   = {2026},
-  url    = {https://github.com/labhai/CoPoE}
+@article{an2026copoe,
+  title   = {{CoPoE}: Multimodal Fusion via Decomposable Disease-Coordinate Product-of-Experts for Missing-Modality {Alzheimer's} Diagnosis},
+  author  = {An, Chihun and Jang, Ikbeom},
+  journal = {arXiv preprint arXiv:2610.11394},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2610.11394}
 }
 ```
 
