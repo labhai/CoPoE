@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use CoPoE, please cite the paper using the BibTeX entry in README.md."
+type: software
+title: "CoPoE: Disease-Coordinate Product-of-Experts"
+version: 0.1.0
+authors:
+  - family-names: An
+    given-names: Chihun
+  - family-names: Jang
+    given-names: Ikbeom
+repository-code: "https://github.com/labhai/CoPoE"
+license: MIT
+abstract: "Research implementation of multimodal CN/MCI/AD classification using observed Gaussian experts over a structured RPNS latent space."
+keywords:
+  - multimodal learning
+  - missing modalities
+  - product of experts
+  - Alzheimer's disease
