@@ -2,7 +2,7 @@
 
 # CoPoE
 
-### Multimodal Fusion via Decomposable Disease-Coordinate<br>Product-of-Experts for Missing-Modality Alzheimer's Diagnosis
+### Multimodal Fusion via Decomposable disease-Coordinate<br>Product-of-Experts for Missing-Modality Alzheimer's Diagnosis
 
 **Chihun An · Ikbeom Jang**  
 Hanyang University · Hankuk University of Foreign Studies
